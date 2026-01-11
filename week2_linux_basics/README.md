@@ -1,4 +1,4 @@
-# Week 1 — Linux Basics
+# Week 2 — Linux Basics
 
 This week I refreshed my Linux knowledge and completed Day 1 exercises.  
 
@@ -45,7 +45,7 @@ ps aux
 top
 kill <PID>
 
-# Week 1 — Linux Basics (Day 2)
+# Week 2 — Linux Basics (Day 2)
 
 ## ✅ Goals
 - Write first Bash scripts
